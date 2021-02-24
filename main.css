@@ -83,7 +83,7 @@ button {
     opacity:1;
   }
   
-  .footer-basic .social {
+  .footer-basic #social {
     text-align:center;
     padding-bottom:25px;
     color:gray;
@@ -96,7 +96,7 @@ button {
     color:inherit;
   }
   
-  .footer-basic .social > a {
+  .footer-basic #social > a {
     font-size:24px;
     width:40px;
     height:40px;
@@ -110,7 +110,7 @@ button {
     opacity:0.75;
   }
   
-  .footer-basic .social > a:hover {
+  .footer-basic #social > a:hover {
     opacity:0.9;
   }
   
